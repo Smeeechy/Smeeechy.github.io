@@ -70,6 +70,7 @@ main {
 
 .sketch-container iframe {
     border-radius: 4px;
+    border: none;
 }
 
 .sketch-card p {
@@ -95,7 +96,7 @@ footer {
     }
     
     .sketch-container iframe {
-        width: 100% !important;
+        width: 100%;
         max-width: 400px;
     }
 }
